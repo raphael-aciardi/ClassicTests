@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ClassicProjects\bin\Debug\net8.0\ClassicProjects.exe
+C:\Users\User\source\repos\ClassicProjects\bin\Debug\net8.0\ClassicProjects.deps.json
+C:\Users\User\source\repos\ClassicProjects\bin\Debug\net8.0\ClassicProjects.runtimeconfig.json
+C:\Users\User\source\repos\ClassicProjects\bin\Debug\net8.0\ClassicProjects.dll
+C:\Users\User\source\repos\ClassicProjects\bin\Debug\net8.0\ClassicProjects.pdb
+C:\Users\User\source\repos\ClassicProjects\obj\Debug\net8.0\ClassicProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ClassicProjects\obj\Debug\net8.0\ClassicProjects.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassicProjects\obj\Debug\net8.0\ClassicProjects.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassicProjects\obj\Debug\net8.0\ClassicProjects.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassicProjects\obj\Debug\net8.0\ClassicProjects.dll
+C:\Users\User\source\repos\ClassicProjects\obj\Debug\net8.0\refint\ClassicProjects.dll
+C:\Users\User\source\repos\ClassicProjects\obj\Debug\net8.0\ClassicProjects.pdb
+C:\Users\User\source\repos\ClassicProjects\obj\Debug\net8.0\ClassicProjects.genruntimeconfig.cache
+C:\Users\User\source\repos\ClassicProjects\obj\Debug\net8.0\ref\ClassicProjects.dll
